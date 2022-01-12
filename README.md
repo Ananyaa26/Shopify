@@ -99,6 +99,9 @@ The features of our project are divided mainly into four domains-:
             • The media JavaScript was used for screen size smaller than 800px.
                This ensures customers can use the website from all types of devices
             • The footer was given 4 sections and have attached links to it.
+   
+
+<img width="597" alt="Screenshot 2022-01-12 175448" src="https://user-images.githubusercontent.com/89255668/149140796-d1bcff24-bf70-493f-b4ac-9a2a031430c9.png">
              
 ### ✓ Account Login Page -
 
@@ -113,3 +116,5 @@ The features of our project are divided mainly into four domains-:
             • The password was put in bullets to ensure privacy using HTML id feature.
             
             • The footer was given 4 sections and have attached links to it.
+            
+  <img width="221" alt="Screenshot 2022-01-12 175324" src="https://user-images.githubusercontent.com/89255668/149140794-f4dc0962-641f-4401-bd23-e39f92814614.png">
