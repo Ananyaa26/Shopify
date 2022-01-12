@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title> Cart - ShopiFy </title>
+        <meta charset="UTF-8">
+        <meta name = "viewport" content="width-device-width , intial-scale = 1.0">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+
+<div class="header">
+    <div class="container">
+            <div class="navbar" > 
+            <div class="logo" >
+                    <img src= "C:\Users\Ananyaa Bansal\Desktop\Shopify\ShopiFy Logo.jpg" width ="200px">
+            </div>
+                <nav>
+                    <ul id="MenuItems">
+                        <li><a href ="index.html">Home</a></li>
+                        <li><a href ="products.html">Products</a></li>
+                        <li><a href ="">About</a></li>
+                        <li><a href ="">Contact</a></li>
+                        <li><a href ="account.html">Account</a></li>
+    
+                    </ul>
+                </nav>
+                <a href="cart.html"><img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\cart.png" width="30px" height="30px"></a> 
+                <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\menu.png" class="menu-icon" onclick="menutoggle()">
+            </div>
+    
+    </div>
+</div>
+
+<!-----------cart Items Details-->
+<div class="small-container cart-page">
+    <table width=100%>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Subtotal</th>
+            
+        </tr>
+        <tr>
+            <td>
+                <div class="cart-info">
+                    <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\images (1).jpeg">
+                    <div>
+                        <p>Red Plain Tshirt</p>
+                        <small>Price: $50.00</small>
+                        <br>
+                        <a href="">Remove</a>
+
+                    </div>
+                </div>
+
+            </td>
+            <td><input type="number" value="1"></td>
+            <td>$50.00</td>
+        </tr>
+    </tr>
+    <tr>
+        <td>
+            <div class="cart-info">
+                <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\download (4).jpeg">
+                <div>
+                    <p>Set of 3 socks pair</p>
+                    <small>Price: $60.00</small>
+                    <br>
+                    <a href="">Remove</a>
+
+                </div>
+            </div>
+
+        </td>
+        <td><input type="number" value="1"></td>
+        <td>$60.00</td>
+    </tr>
+</tr>
+<tr>
+    <td>
+        <div class="cart-info">
+            <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\images (8).jpeg">
+            <div>
+                <p>Peach pink Hoodie</p>
+                <small>Price: $70.00</small>
+                <br>
+                <a href="">Remove</a>
+
+            </div>
+        </div>
+
+    </td>
+    <td><input type="number" value="1"></td>
+    <td>$70.00</td>
+</tr>
+    </table>
+
+    <div class="total-price">
+        <table>
+            <tr>
+                <td>Subtotal</td>
+                <td>$180.00</td>
+            </tr>
+            <tr>
+                <td>Tax</td>
+                <td>$18.00</td>
+            </tr>
+            <tr>
+                <td>Total</td>
+                <td>$198.00</td>
+            </tr>
+        </table>
+
+
+    </div>
+</div>
+
+
+<!----------------------footer---------------------->
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col-1">
+                <h3>Download Our App</h3>
+                <p>Available for Android and IOS devices</p>
+                <div class="app-logo">
+                    <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\play-store.png" alt="">
+                    <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\app-store.png" alt="">
+                </div>
+            </div>
+            <div class="footer-col-2">
+                <img src="C:\Users\Ananyaa Bansal\Desktop\Shopify\ShopiFy Logo-crpped.jpg">                   
+                 <p>To Provide the benefits of Sports<br> accessible to many</p>
+            </div>
+            <div class="footer-col-3">
+                <h3>Useful Links</h3>
+                <ul>
+                    <li>Coupons</li>
+                    <li>Blog Post</li>
+                    <li>Return Policy</li>
+                    <li>Join Affiliate</li>
+                </ul>
+            </div>
+            <div class="footer-col-4">
+                <h3>Follow Us</h3>
+                <ul>
+                    <a href="https://www.facebook.com/"> <li>Facebook</li></a>
+                    <a href="https://twitter.com/login/"><li>Twitter</li></a>  
+                    <a href="https://www.instagram.com/accounts/login/"><li>Instagram</li></a>  
+                    <a href="https://www.youtube.com/"><li>Youtube</li></a>                </ul>
+            </div>
+        </div>
+        <hr>
+        <p class="Copyright">Copyright 2021 - ShopiFy-IT Project</p>
+    </div>
+</div>
+<!----js for toggle menu---------->
+<script>
+    var MenuItems = document.getElementById("MenuItems")
+
+    MenuItems.style.maxHeight ="0px";
+
+    function menutoggle(){
+        if(MenuItems.style.maxHeight =="0px"){
+
+            MenuItems.style.maxHeight  ="200px"
+        }
+        else{
+            MenuItems.style.maxHeight ="0px"
+        }
+    }
+
+</script>
+
