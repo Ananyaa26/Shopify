@@ -56,6 +56,13 @@ The features of our project are divided mainly into four domains-:
               This Outline: hidden feature was used using CSS.
               
             • The footer was given 4 sections and have attached links to it.
+<img width="648" alt="Screenshot 2022-01-12 175047" src="https://user-images.githubusercontent.com/89255668/149141604-91e747aa-6a26-4d37-bbf9-1179fa8c2e63.png">
+
+<img width="428" alt="Screenshot 2022-01-12 175151" src="https://user-images.githubusercontent.com/89255668/149140780-2d7a91f8-3018-4b6c-bd4d-4cb23bd4a0cd.png">
+
+<img width="395" alt="Screenshot 2022-01-12 175246" src="https://user-images.githubusercontent.com/89255668/149140790-76a31ab4-5107-41ba-a348-fd357ee6712c.png">
+
+
             
 ### ✓ Products Page -
 
