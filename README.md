@@ -5,8 +5,8 @@ affordable prices and offers accesible to all.
 
 The features of our project are divided mainly into four domains-:
 
-1) Customer Reviews - The best possible way to judge a product before buying is to go through the reviews the buyers have already given. It provides to rate 
-the product with stars and also comment about it.
+1) Customer Reviews - The best possible way to judge a product before buying is to go through the reviews the buyers have already given. 
+                      It provides to rate the product with stars and also comment about it.
 
 2) Product Sorting - This feature helps to sort the products you want to search on the basis of various categories.It includes: -
 
@@ -32,17 +32,20 @@ The project creation included various domains as described below: -
 
 ✓ Home Page -
 
-            • The Header was made including 7 things i.e. Logo + 5 basic toggle buttons and a menu option for small screen size of less than 800px.
+            • The Header was made including 7 things i.e. Logo + 5 basic toggle buttons and a menu option for 
+              small screen size of less than 800px.
               
             • The background color was chosen in gradient using CSS feature.
             
             • Use of hover feature on buttons is used to show greater effect using CSS.
             
-            • The page was given 3 sections to display variety of products and offer section was highlighted to attract the customer using HTML classes.
+            • The page was given 3 sections to display variety of products and offer section 
+              was highlighted to attract the customer using HTML classes.
               
             • The Customer reviews was made to transition to give a better effect.
             
-            • The logos were made greyscale and can be turned to color on click. This Outline: hidden feature was used using CSS.
+            • The logos were made greyscale and can be turned to color on click. 
+              This Outline: hidden feature was used using CSS.
               
             • The footer was given 4 sections and have attached links to it.
             
@@ -61,11 +64,13 @@ The project creation included various domains as described below: -
 
 ✓ Products Details Page -
 
-            • On clicking any product on the Product image, the page goes to the details of that product; Made by using anchor tag of HTML.
+            • On clicking any product on the Product image, the page goes to the details of that product; 
+              Made by using anchor tag of HTML.
             
             • It shows multiple images of the product on down.
             
-            • The main feature was to give the option of size and quantity of the product to the buyer. It was made using select and option tag of HTML.
+            • The main feature was to give the option of size and quantity of the product to the buyer. 
+              It was made using select and option tag of HTML.
             
             • The Add to Cart feature was given hover effect using CSS.
             
@@ -75,7 +80,7 @@ The project creation included various domains as described below: -
 
             • A table was introduced in this section using Table tag of HTML showing Product,Quantiy and Subtotal categories.
             
-            • The Quantity section can be increased or decreased by clicking on arrow. It extensively used HTML feature.
+            • The Quantity section can be increased or decreased by clicking on arrow. 
             
             • A fixed tax was placed in down the table to show the Total price using another table HTML.
             
