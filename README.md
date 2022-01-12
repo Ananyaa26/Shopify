@@ -1,36 +1,44 @@
-ShopiFy – Let’s Workout In New Style
+# ShopiFy – Let’s Workout In New Style
 
 It is an ecommerce website which focusses on providing all the necessary sports wear and accessories with latest designs,
 affordable prices and offers accesible to all.
 
 The features of our project are divided mainly into four domains-:
 
-1) Customer Reviews - The best possible way to judge a product before buying is to go through the reviews the buyers have already given. 
-                      It provides to rate the product with stars and also comment about it.
+## 1) Customer Reviews - 
 
-2) Product Sorting - This feature helps to sort the products you want to search on the basis of various categories.It includes: -
+      The best possible way to judge a product before buying is to go through the reviews the buyers have already given. 
+      It provides to rate the product with stars and also comment about it.
+
+## 2) Product Sorting - 
+
+      This feature helps to sort the products you want to search on the basis of various categories.It includes: -
 
  -> Sort by Price
  -> Sort by Rating
  -> Sort by Popularity
  -> Sort by Sale
  
-3) Account Login - The customer can login or register to their account on 
-ShopiFy to see their saved products and all the purchases done so far.
+## 3) Account Login - 
 
-4) Cart Page - This includes all the items you want to purchase. The quantity 
-section could increase or decrease its value and a subtotal section along with 
-GST is included.
+     The customer can login or register to their account on ShopiFy to see their 
+     saved products and all the purchases done so far.
 
-The tech-stack involves the following-:
+## 4) Cart Page - 
+  
+    This includes all the items you want to purchase. The quantity section could 
+    increase or decrease its value and a subtotal section along with GST is included.
+
+## The tech-stack involves the following-:
+
 1. HTML
 2. CSS
 3. Bootstrap
 4. JavaScript
 
-The project creation included various domains as described below: -
+## The project creation included various domains as described below: -
 
-✓ Home Page -
+### ✓ Home Page -
 
             • The Header was made including 7 things i.e. Logo + 5 basic toggle buttons and a menu option for 
               small screen size of less than 800px.
@@ -49,7 +57,7 @@ The project creation included various domains as described below: -
               
             • The footer was given 4 sections and have attached links to it.
             
-✓ Products Page -
+### ✓ Products Page -
 
             • The All Products page includes the same header as the home page using HTML.
             
@@ -62,7 +70,7 @@ The project creation included various domains as described below: -
               
             • The footer was given 4 sections and have attached links to it.
 
-✓ Products Details Page -
+### ✓ Products Details Page -
 
             • On clicking any product on the Product image, the page goes to the details of that product; 
               Made by using anchor tag of HTML.
@@ -76,7 +84,7 @@ The project creation included various domains as described below: -
             
             • The footer was given 4 sections and have attached links to it.
             
-✓ Cart Page -
+### ✓ Cart Page -
 
             • A table was introduced in this section using Table tag of HTML showing Product,Quantiy and Subtotal categories.
             
@@ -90,7 +98,7 @@ The project creation included various domains as described below: -
                This ensures customers can use the website from all types of devices
             • The footer was given 4 sections and have attached links to it.
              
-✓ Account Login Page -
+### ✓ Account Login Page -
 
             • This Account page includes Login and Register option for the customers.
             
