@@ -76,6 +76,9 @@ The features of our project are divided mainly into four domains-:
               It was given special attention using CSS to be put in box and have the hover effect.
               
             • The footer was given 4 sections and have attached links to it.
+  
+  <img width="323" alt="Screenshot 2022-01-12 175557" src="https://user-images.githubusercontent.com/89255668/149142399-aa683fe4-526a-4bdf-ad6e-dd550d4c0917.png">
+
 
 ### ✓ Products Details Page -
 
