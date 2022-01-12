@@ -84,6 +84,8 @@ The features of our project are divided mainly into four domains-:
             
             • The footer was given 4 sections and have attached links to it.
             
+   <img width="321" alt="Screenshot 2022-01-12 175533" src="https://user-images.githubusercontent.com/89255668/149140799-074ec6a1-61de-4964-a60f-8a362e57c8ae.png">
+            
 ### ✓ Cart Page -
 
             • A table was introduced in this section using Table tag of HTML showing Product,Quantiy and Subtotal categories.
